@@ -4,6 +4,7 @@ public class 猜数字 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         Random rd = new Random();
+        input.close();
         int number = rd.nextInt(100)+1;
         boolean result = true;
         System.out.print("猜数字游戏开始，请输入数字：");

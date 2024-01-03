@@ -4,6 +4,7 @@ public class Arr {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
+        scanner.close();
         int out_sum = 0, Num = num;
         System.out.printf("%d,",Num);
         while (Num != 0){

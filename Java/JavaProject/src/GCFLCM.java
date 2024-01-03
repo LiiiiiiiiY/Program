@@ -16,6 +16,7 @@ public class GCFLCM {
         Scanner scanner = new Scanner(System.in);
         long num1 = scanner.nextLong();
         long num2 = scanner.nextLong();
+        scanner.close();
         long GCF = GetGCF(num1, num2);
         long LCM = (num1 * num2) / GCF;
         System.out.printf("这两个值的最大公约数为%d，最小公倍数为%d", GCF, LCM);

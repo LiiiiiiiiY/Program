@@ -1,13 +1,13 @@
 class Person{
     private String name;
     private int age;
-    private int gender;
+    //private int gender;
 
     Person(String name){
         this.age = 18;
         this.name = name;
     }
-    void setAge(int i){
+    void setAge(int age){
         this.age = age;
     }
     int getAge(){

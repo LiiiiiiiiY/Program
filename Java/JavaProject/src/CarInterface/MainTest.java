@@ -10,6 +10,7 @@ public class MainTest {
         System.out.print("请输入终止日期（格式：yyyy-MM-dd）: ");
         Scanner scanner = new Scanner(System.in);
         String inputDateStr = scanner.nextLine();
+        scanner.close();
         //将时间转为LocalDate类型
         LocalDate inputDate = LocalDate.parse(inputDateStr);
         //创建Car对象并初始化
