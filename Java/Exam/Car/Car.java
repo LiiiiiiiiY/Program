@@ -9,12 +9,8 @@ public class Car {
         this.price = price;
     }
 
-    public int getPrice(){
+    public int getter(){
         return price;
-    }
-
-    public String getter(){
-        return "Brand="+brand+", Price= "+price;
     }
 
     public void setr(String brand, int price){
@@ -23,6 +19,6 @@ public class Car {
     }
 
     public String toString(){
-        return "Car ["+ getter() +"]";
+        return "Car [Brand="+brand+", Price= "+price+"]";
     }
 }

@@ -9,7 +9,7 @@ public class Test {
         carList.add(new Car("byd", 230000));
         carList.add(new Car("geely", 140000));
 
-        Comparator<Car> price = Comparator.comparingInt(Car::getPrice).reversed();
+        Comparator<Car> price = Comparator.comparingInt(Car::getter).reversed();
         Collections.sort(carList,price);
 
         for(Car car:carList){
