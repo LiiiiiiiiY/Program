@@ -1,4 +1,4 @@
-package Java.Studying.CircleException;
+package Java.Studying.自定义异常;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java.Studying.CircleException;
+package Java.Studying.自定义异常;
 
 public class CircleException extends Exception{
     private double radius;
