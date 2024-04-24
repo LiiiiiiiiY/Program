@@ -63,3 +63,59 @@
 58 timing reify:build Completed in 1ms
 59 timing reify:trash Completed in 0ms
 60 timing reify:save Completed in 5ms
+61 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/advisories/bulk 70452ms attempt #3 (cache skip)
+62 silly audit bulk request failed [object Object]
+63 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/audits/quick 70441ms attempt #3 (cache skip)
+64 verbose audit error HttpErrorGeneral: 501 Method Not Implemented - POST https://registry.npmmirror.com/-/npm/v1/security/audits/quick - [NOT_IMPLEMENTED] /-/npm/v1/security/audits/quick not implemented yet
+64 verbose audit error     at C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:95:15
+64 verbose audit error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+64 verbose audit error     at async [getReport] (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:335:21)
+64 verbose audit error     at async AuditReport.run (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:106:19)
+64 verbose audit error     at async Arborist.reify (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:174:24)
+64 verbose audit error     at async Install.exec (C:\Program Files\nodejs\node_modules\npm\lib\commands\install.js:153:5)
+64 verbose audit error     at async module.exports (C:\Program Files\nodejs\node_modules\npm\lib\cli-entry.js:61:5) {
+64 verbose audit error   headers: [Object: null prototype] {
+64 verbose audit error     server: [ 'Tengine' ],
+64 verbose audit error     'content-type': [ 'application/json; charset=utf-8' ],
+64 verbose audit error     'content-length': [ '81' ],
+64 verbose audit error     connection: [ 'keep-alive' ],
+64 verbose audit error     'strict-transport-security': [ 'max-age=5184000' ],
+64 verbose audit error     date: [ 'Wed, 24 Apr 2024 02:43:51 GMT' ],
+64 verbose audit error     vary: [ 'Origin' ],
+64 verbose audit error     'request-id': [ '7c03a680-01e4-11ef-aa8b-dd4f74f1a8bb' ],
+64 verbose audit error     'x-frame-options': [ 'SAMEORIGIN' ],
+64 verbose audit error     'x-xss-protection': [ '1; mode=block' ],
+64 verbose audit error     'x-content-type-options': [ 'nosniff' ],
+64 verbose audit error     'x-download-options': [ 'noopen' ],
+64 verbose audit error     'x-readtime': [ '0.851' ],
+64 verbose audit error     'ali-swift-global-savetime': [ '1713926631' ],
+64 verbose audit error     via: [
+64 verbose audit error       'cache37.l2cn3148[27,27,501-1281,M], cache33.l2cn3148[28,0], kunlun20.cn5230[121,120,501-1281,M], kunlun19.cn5230[122,0]'
+64 verbose audit error     ],
+64 verbose audit error     'x-cache': [ 'MISS TCP_MISS dirn:-2:-2' ],
+64 verbose audit error     'x-swift-error': [ 'orig response 5xx error' ],
+64 verbose audit error     'x-swift-savetime': [ 'Wed, 24 Apr 2024 02:43:51 GMT' ],
+64 verbose audit error     'x-swift-cachetime': [ '1' ],
+64 verbose audit error     'timing-allow-origin': [ '*' ],
+64 verbose audit error     eagleid: [ '6f30473017139266315625096e' ],
+64 verbose audit error     'x-fetch-attempts': [ '3' ],
+64 verbose audit error     'x-local-cache-status': [ 'skip' ]
+64 verbose audit error   },
+64 verbose audit error   statusCode: 501,
+64 verbose audit error   code: 'E501',
+64 verbose audit error   method: 'POST',
+64 verbose audit error   uri: 'https://registry.npmmirror.com/-/npm/v1/security/audits/quick',
+64 verbose audit error   body: {
+64 verbose audit error     error: '[NOT_IMPLEMENTED] /-/npm/v1/security/audits/quick not implemented yet'
+64 verbose audit error   },
+64 verbose audit error   pkgid: undefined
+64 verbose audit error }
+65 silly audit error [object Object]
+66 timing auditReport:getReport Completed in 140898ms
+67 silly audit report null
+68 timing reify:audit Completed in 140898ms
+69 timing reify Completed in 141490ms
+70 timing command:install Completed in 141493ms
+71 verbose exit 0
+72 timing npm Completed in 142019ms
+73 info ok
