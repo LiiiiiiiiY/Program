@@ -1,0 +1,2 @@
+
+caa396a7c41427a79b10f3a27f781b75870deede	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/proxy-from-env","integrity":null,"time":1713801578237,"size":"262","metadata":{"time":1713801578237,"url":"http://registry.npm.taobao.org/proxy-from-env","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 22 Apr 2024 15:59:38 GMT","location":"https://registry.npmmirror.com/proxy-from-env"},"options":{"compress":true},"status":301}}

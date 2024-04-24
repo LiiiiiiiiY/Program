@@ -1,0 +1,2 @@
+
+2efe016ff4a1ed9d14508a79ddd05b6abb99413a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/delayed-stream","integrity":null,"time":1713801578757,"size":"262","metadata":{"time":1713801578757,"url":"http://registry.npm.taobao.org/delayed-stream","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 22 Apr 2024 15:59:38 GMT","location":"https://registry.npmmirror.com/delayed-stream"},"options":{"compress":true},"status":301}}

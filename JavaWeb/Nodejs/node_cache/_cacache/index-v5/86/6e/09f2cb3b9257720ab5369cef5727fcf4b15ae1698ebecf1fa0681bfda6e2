@@ -1,0 +1,2 @@
+
+8c9ecc39ceb731c828c1cb7a25876c7dbf95df96	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/combined-stream","integrity":null,"time":1713801578642,"size":"262","metadata":{"time":1713801578642,"url":"http://registry.npm.taobao.org/combined-stream","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 22 Apr 2024 15:59:38 GMT","location":"https://registry.npmmirror.com/combined-stream"},"options":{"compress":true},"status":301}}
