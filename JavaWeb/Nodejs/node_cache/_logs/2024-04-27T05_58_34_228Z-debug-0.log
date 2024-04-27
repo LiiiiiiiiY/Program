@@ -1,50 +1,50 @@
 0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
 1 info using npm@10.5.0
 2 info using node@v20.12.0
-3 timing npm:load:whichnode Completed in 1ms
+3 timing npm:load:whichnode Completed in 6ms
 4 timing config:load:defaults Completed in 2ms
-5 timing config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc Completed in 4ms
-6 timing config:load:builtin Completed in 4ms
-7 timing config:load:cli Completed in 2ms
-8 timing config:load:env Completed in 1ms
+5 timing config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
 9 timing config:load:file:C:\Users\YYY\AppData\Local\Microsoft\TypeScript\5.4\.npmrc Completed in 1ms
 10 timing config:load:project Completed in 2ms
 11 timing config:load:file:C:\Users\YYY\.npmrc Completed in 0ms
 12 timing config:load:user Completed in 0ms
-13 timing config:load:file:C:\Users\YYY\Desktop\Program\JavaWeb\Nodejs\node_global\etc\npmrc Completed in 1ms
-14 timing config:load:global Completed in 1ms
-15 timing config:load:setEnvs Completed in 0ms
+13 timing config:load:file:C:\Users\YYY\Desktop\Program\JavaWeb\Nodejs\node_global\etc\npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
 16 timing config:load Completed in 12ms
 17 timing npm:load:configload Completed in 12ms
-18 timing config:load:flatten Completed in 2ms
-19 timing npm:load:mkdirpcache Completed in 0ms
+18 timing config:load:flatten Completed in 1ms
+19 timing npm:load:mkdirpcache Completed in 1ms
 20 timing npm:load:mkdirplogs Completed in 0ms
 21 verbose title npm install types-registry@latest
 22 verbose argv "install" "--ignore-scripts" "types-registry@latest"
 23 timing npm:load:setTitle Completed in 1ms
-24 timing npm:load:display Completed in 0ms
-25 verbose logfile logs-max:10 dir:C:\Users\YYY\Desktop\Program\JavaWeb\Nodejs\node_cache\_logs\2024-04-24T02_41_29_730Z-
-26 verbose logfile C:\Users\YYY\Desktop\Program\JavaWeb\Nodejs\node_cache\_logs\2024-04-24T02_41_29_730Z-debug-0.log
-27 timing npm:load:logFile Completed in 7ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:C:\Users\YYY\Desktop\Program\JavaWeb\Nodejs\node_cache\_logs\2024-04-27T05_58_34_228Z-
+26 verbose logfile C:\Users\YYY\Desktop\Program\JavaWeb\Nodejs\node_cache\_logs\2024-04-27T05_58_34_228Z-debug-0.log
+27 timing npm:load:logFile Completed in 10ms
 28 timing npm:load:timers Completed in 0ms
-29 timing npm:load:configScope Completed in 0ms
-30 timing npm:load Completed in 45ms
+29 timing npm:load:configScope Completed in 1ms
+30 timing npm:load Completed in 53ms
 31 timing arborist:ctor Completed in 0ms
 32 silly logfile start cleaning logs, removing 4 files
-33 timing idealTree:init Completed in 10ms
-34 timing arborist:ctor Completed in 0ms
+33 timing idealTree:init Completed in 12ms
+34 timing arborist:ctor Completed in 1ms
 35 silly logfile done cleaning log files
-36 http fetch GET 200 https://registry.npmmirror.com/types-registry 563ms (cache revalidated)
-37 timing idealTree:userRequests Completed in 568ms
+36 http fetch GET 200 https://registry.npmmirror.com/types-registry 61ms (cache hit)
+37 timing idealTree:userRequests Completed in 65ms
 38 silly idealTree buildDeps
 39 silly fetch manifest types-registry@0.1.684
 40 silly placeDep ROOT types-registry@0.1.684 REPLACE for:  want: 0.1.684
-41 timing idealTree:#root Completed in 4ms
+41 timing idealTree:#root Completed in 6ms
 42 timing idealTree:node_modules/types-registry Completed in 0ms
-43 timing idealTree:buildDeps Completed in 5ms
+43 timing idealTree:buildDeps Completed in 7ms
 44 timing idealTree:fixDepFlags Completed in 0ms
-45 timing idealTree Completed in 583ms
-46 timing reify:loadTrees Completed in 583ms
+45 timing idealTree Completed in 88ms
+46 timing reify:loadTrees Completed in 88ms
 47 timing reify:diffTrees Completed in 1ms
 48 silly reify moves {}
 49 timing reify:retireShallow Completed in 1ms
@@ -55,17 +55,17 @@
 52 silly audit   'undici-types': [ '5.26.5' ],
 52 silly audit   'types-registry': [ '0.1.684' ]
 52 silly audit }
-53 timing reify:unpack Completed in 1ms
-54 timing reify:unretire Completed in 0ms
+53 timing reify:unpack Completed in 0ms
+54 timing reify:unretire Completed in 1ms
 55 timing build:queue Completed in 0ms
 56 timing build:deps Completed in 0ms
 57 timing build Completed in 0ms
-58 timing reify:build Completed in 1ms
+58 timing reify:build Completed in 0ms
 59 timing reify:trash Completed in 0ms
 60 timing reify:save Completed in 5ms
-61 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/advisories/bulk 70452ms attempt #3 (cache skip)
+61 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/advisories/bulk 70701ms attempt #3 (cache skip)
 62 silly audit bulk request failed [object Object]
-63 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/audits/quick 70441ms attempt #3 (cache skip)
+63 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/audits/quick 70891ms attempt #3 (cache skip)
 64 verbose audit error HttpErrorGeneral: 501 Method Not Implemented - POST https://registry.npmmirror.com/-/npm/v1/security/audits/quick - [NOT_IMPLEMENTED] /-/npm/v1/security/audits/quick not implemented yet
 64 verbose audit error     at C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:95:15
 64 verbose audit error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
@@ -80,24 +80,24 @@
 64 verbose audit error     'content-length': [ '81' ],
 64 verbose audit error     connection: [ 'keep-alive' ],
 64 verbose audit error     'strict-transport-security': [ 'max-age=5184000' ],
-64 verbose audit error     date: [ 'Wed, 24 Apr 2024 02:43:51 GMT' ],
+64 verbose audit error     date: [ 'Sat, 27 Apr 2024 06:00:56 GMT' ],
 64 verbose audit error     vary: [ 'Origin' ],
-64 verbose audit error     'request-id': [ '7c03a680-01e4-11ef-aa8b-dd4f74f1a8bb' ],
+64 verbose audit error     'request-id': [ '83274a60-045b-11ef-bc03-fde1217e7443' ],
 64 verbose audit error     'x-frame-options': [ 'SAMEORIGIN' ],
 64 verbose audit error     'x-xss-protection': [ '1; mode=block' ],
 64 verbose audit error     'x-content-type-options': [ 'nosniff' ],
 64 verbose audit error     'x-download-options': [ 'noopen' ],
-64 verbose audit error     'x-readtime': [ '0.851' ],
-64 verbose audit error     'ali-swift-global-savetime': [ '1713926631' ],
+64 verbose audit error     'x-readtime': [ '0.824' ],
+64 verbose audit error     'ali-swift-global-savetime': [ '1714197656' ],
 64 verbose audit error     via: [
-64 verbose audit error       'cache37.l2cn3148[27,27,501-1281,M], cache33.l2cn3148[28,0], kunlun20.cn5230[121,120,501-1281,M], kunlun19.cn5230[122,0]'
+64 verbose audit error       'cache18.l2cn3084[92,91,501-1281,M], cache35.l2cn3084[93,0], kunlun9.cn1590[330,329,501-1281,M], kunlun8.cn1590[331,0]'
 64 verbose audit error     ],
 64 verbose audit error     'x-cache': [ 'MISS TCP_MISS dirn:-2:-2' ],
 64 verbose audit error     'x-swift-error': [ 'orig response 5xx error' ],
-64 verbose audit error     'x-swift-savetime': [ 'Wed, 24 Apr 2024 02:43:51 GMT' ],
+64 verbose audit error     'x-swift-savetime': [ 'Sat, 27 Apr 2024 06:00:56 GMT' ],
 64 verbose audit error     'x-swift-cachetime': [ '1' ],
 64 verbose audit error     'timing-allow-origin': [ '*' ],
-64 verbose audit error     eagleid: [ '6f30473017139266315625096e' ],
+64 verbose audit error     eagleid: [ 'ddb2069c17141976557952029e' ],
 64 verbose audit error     'x-fetch-attempts': [ '3' ],
 64 verbose audit error     'x-local-cache-status': [ 'skip' ]
 64 verbose audit error   },
@@ -111,11 +111,11 @@
 64 verbose audit error   pkgid: undefined
 64 verbose audit error }
 65 silly audit error [object Object]
-66 timing auditReport:getReport Completed in 140898ms
+66 timing auditReport:getReport Completed in 141598ms
 67 silly audit report null
-68 timing reify:audit Completed in 140898ms
-69 timing reify Completed in 141490ms
-70 timing command:install Completed in 141493ms
+68 timing reify:audit Completed in 141598ms
+69 timing reify Completed in 141694ms
+70 timing command:install Completed in 141697ms
 71 verbose exit 0
-72 timing npm Completed in 142019ms
+72 timing npm Completed in 142034ms
 73 info ok

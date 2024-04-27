@@ -8,13 +8,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/user")
 public class UserConrtoller {
-    @RequestMapping("getUser")
+
+    @RequestMapping("/getUser")
     public String getUser(String id){
         return "getUser id:" + id;
     }
 
     @RequestMapping("/addUser")
     public String addUser(User user){
-        return "addUser" + user;
+        return user.toString();
     }
 }
