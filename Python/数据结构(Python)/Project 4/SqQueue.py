@@ -22,7 +22,6 @@ class SqQueue:      		        #循环队列类
         head = (self.front + 1) % MaxSize  # 求队头元素的位置
         return self.data[head]
         
-        
 
 if __name__ == '__main__':
     # 定义顺序栈的对象

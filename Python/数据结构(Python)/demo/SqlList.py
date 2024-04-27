@@ -78,25 +78,25 @@ class SqlList:
             else:
                 self.data[i-index] = self.data[i]
         self.size -= index
-
-
-def mergeSort(A,B):
-    C = SqlList()
-    i = j = 0
-    while i<A.size and j<B.size:
-        if A.data[i] <= B.data[j]:
-            C.append(A.data[i])
+        
+    def mergeSort(self,B):
+        C = SqlList()
+        i = j = 0
+        while i<self.size and j<B.size:
+            if self.data[i] <= B.data[j]:
+                C.append(self.data[i])
+                i += 1
+            else:
+                C.append(B.data[j])
+                j += 1
+        while i<self.size:
+            C.append(self.data[i])
             i += 1
-        else:
+        while j<B.size:
             C.append(B.data[j])
             j += 1
-    while i<A.size:
-        C.append(A.data[i])
-        i += 1
-    while j<B.size:
-        C.append(B.data[j])
-        j += 1
-    C.display()
+        C.display()
+
 
 startTime = time.time()
 A = SqlList()
@@ -105,6 +105,6 @@ A.display()
 B = SqlList()
 B.createList([9,11,36,61,63,66,86,89,90,94])
 B.display()
-mergeSort(A,B)
+A.mergeSort(B)
 endTime = time.time()
 print(f"本次用时：{endTime-startTime}")

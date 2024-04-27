@@ -31,7 +31,7 @@ def infixToPostfix(infixexpr):
     
     out = ""
     while not postfixQueue.empty():
-        out.jion(postfixQueue.deQueue())
+        out+=(postfixQueue.deQueue())
     return out
  
 if __name__=="__main__":
