@@ -1,9 +1,10 @@
 <script setup>
 import AxiosDemo from './components/AxiosDemo.vue'
+import Order from './components/Order.vue';
 </script>
 
 <template>
-  <AxiosDemo/>
+ <Order></Order>
 </template>
 
 <style scoped>

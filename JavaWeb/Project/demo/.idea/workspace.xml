@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d1b1291-9715-4730-a701-f704e570fbf7" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unknown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nodejs/node_cache/_cacache/index-v5/3c/5b/96f1cca84ae0a5d3247a3f4c2ea3c8cf5110499481655f3b33d6d5d77a9f" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nodejs/node_cache/_cacache/index-v5/3c/5b/96f1cca84ae0a5d3247a3f4c2ea3c8cf5110499481655f3b33d6d5d77a9f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nodejs/node_cache/_cacache/index-v5/d2/2f/85160327af4ef45e0f422546e8df6c34070bc5f613cabfc37af645f51715" beforeDir="false" afterPath="$PROJECT_DIR$/../../Nodejs/node_cache/_cacache/index-v5/d2/2f/85160327af4ef45e0f422546e8df6c34070bc5f613cabfc37af645f51715" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nodejs/node_cache/_logs/2024-04-29T07_48_33_571Z-debug-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nodejs/node_cache/_logs/2024-04-29T07_48_40_941Z-debug-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nodejs/node_cache/_logs/2024-04-29T07_48_41_406Z-debug-0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/src/main/java/com/example/springboot/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/src/main/java/com/example/springboot/demos/web/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/src/main/java/com/example/springboot/demos/web/UserConrtoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/SpringBoot/src/test/java/com/example/springboot/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vue/vueProject2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../Vue/vueProject2/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../markdown/通话记录/设计表保存通话记录，实现查询功能.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../markdown/通话记录/设计表保存通话记录，实现查询功能.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2g5UNwTTLN3ot9FQkeOTqdFmJda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2d1b1291-9715-4730-a701-f704e570fbf7" name="更改" comment="" />
+      <created>1714986897361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714986897361</updated>
+      <workItem from="1714986898700" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
