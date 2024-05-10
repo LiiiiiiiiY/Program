@@ -29,3 +29,6 @@
 28 timing npm:load:timers Completed in 0ms
 29 timing npm:load:configScope Completed in 0ms
 30 timing npm:load Completed in 37ms
+31 silly logfile start cleaning logs, removing 24 files
+32 silly logfile done cleaning log files
+33 http fetch GET 200 https://registry.npmmirror.com/npm 771ms
