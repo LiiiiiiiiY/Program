@@ -17,12 +17,8 @@
 package com.example.enitity;
 
 import lombok.Data;
-
 import java.time.LocalDateTime;
 
-/**
- * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
- */
 @Data
 public class User {
     private Long id;

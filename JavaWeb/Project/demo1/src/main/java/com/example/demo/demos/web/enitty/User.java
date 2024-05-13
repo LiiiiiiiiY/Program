@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.demo.demos.web;
+package com.example.demo.demos.web.enitty;
 
 import lombok.Data;
 
