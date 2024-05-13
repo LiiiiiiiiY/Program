@@ -4,7 +4,7 @@ import Order from './components/Order.vue';
 </script>
 
 <template>
- <Order></Order>
+ <Order/>
 </template>
 
 <style scoped>
