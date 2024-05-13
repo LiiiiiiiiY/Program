@@ -16,6 +16,7 @@
 
 package com.example.demo.demos.web;
 
+import com.example.demo.demos.web.enitty.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
