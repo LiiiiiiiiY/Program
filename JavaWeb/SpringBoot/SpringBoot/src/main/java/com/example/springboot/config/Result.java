@@ -1,27 +1,17 @@
-package com.example.demo.config;
+package com.example.springboot.config;
 
 import lombok.Data;
 
 @Data
 public class Result<T> {
-    /**
-     * 返回处理消息
-     */
+    /*返回处理消息*/
     private String message = "操作成功！";
 
-    /**
-     * 返回代码
-     */
+    /*返回代码*/
     private Integer code = 0;
 
-    /**
-     * 返回数据对象 data
-     */
+    /*返回数据对象 data*/
     private T data;
-
-
-
-
     public Result() {
     }
 
@@ -68,5 +58,4 @@ public class Result<T> {
         this.code = 500;
         return this;
     }
-
 }
