@@ -1,0 +1,2 @@
+
+ee3e3bae78913f927c2f519c459b5c697762d845	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ajv","integrity":null,"time":1716391080597,"size":"262","metadata":{"time":1716391080597,"url":"http://registry.npm.taobao.org/ajv","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/ajv"},"options":{"compress":true},"status":301}}

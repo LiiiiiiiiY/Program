@@ -1,0 +1,2 @@
+
+119f82c0f3d6cc48b9df53d2cd050a4b4e5a68fe	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unplugin-vue-components","integrity":null,"time":1716391071192,"size":"262","metadata":{"time":1716391071192,"url":"http://registry.npm.taobao.org/unplugin-vue-components","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:49 GMT","location":"https://registry.npmmirror.com/unplugin-vue-components"},"options":{"compress":true},"status":301}}

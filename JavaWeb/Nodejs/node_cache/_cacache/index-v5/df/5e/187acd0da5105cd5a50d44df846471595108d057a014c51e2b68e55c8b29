@@ -1,0 +1,2 @@
+
+a57a2b84db044a2f8d78d4828ca5cef8c509e9c3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vueuse%2fmetadata","integrity":null,"time":1716391681533,"size":"262","metadata":{"time":1716391681533,"url":"http://registry.npm.taobao.org/@vueuse%2fmetadata","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:27:59 GMT","location":"https://registry.npmmirror.com/@vueuse%2fmetadata"},"options":{"compress":true},"status":301}}

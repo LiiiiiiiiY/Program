@@ -1,0 +1,2 @@
+
+a8fb3e282aebae1ea592e68c9d0ebf796f676977	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fill-range","integrity":null,"time":1716391074111,"size":"262","metadata":{"time":1716391074111,"url":"http://registry.npm.taobao.org/fill-range","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:52 GMT","location":"https://registry.npmmirror.com/fill-range"},"options":{"compress":true},"status":301}}

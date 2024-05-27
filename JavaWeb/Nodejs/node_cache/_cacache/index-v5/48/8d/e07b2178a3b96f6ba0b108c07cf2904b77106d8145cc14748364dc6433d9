@@ -1,0 +1,2 @@
+
+799a6c5300034ee6ebd3acad9c4fd64fef020e33	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-literal","integrity":null,"time":1716391073254,"size":"262","metadata":{"time":1716391073254,"url":"http://registry.npm.taobao.org/strip-literal","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:51 GMT","location":"https://registry.npmmirror.com/strip-literal"},"options":{"compress":true},"status":301}}

@@ -1,1 +1,18 @@
-spring.application.name=SpringBoot
+# \u5E94\u7528\u670D\u52A1 WEB \u8BBF\u95EE\u7AEF\u53E3
+server:
+ port: 8080
+
+spring:
+ datasource:
+  driver-class-name: com.mysql.cj.jdbc.Driver
+  username: root
+  password: admin
+  url: jdbc:mysql://localhost:3306/springboot?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+
+mybatis-plus:
+ configuration:
+   log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+# global-config:
+#  db-config:
+#    table-prefix: t_
+#    table-prefix: t_

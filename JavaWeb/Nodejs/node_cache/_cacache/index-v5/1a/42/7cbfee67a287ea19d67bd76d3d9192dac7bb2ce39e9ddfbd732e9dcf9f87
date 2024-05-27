@@ -1,0 +1,2 @@
+
+335bdfb5c77f837e19f92e1f89b21ddcd7ef1591	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/memoize-one","integrity":null,"time":1716391681257,"size":"262","metadata":{"time":1716391681257,"url":"http://registry.npm.taobao.org/memoize-one","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:27:59 GMT","location":"https://registry.npmmirror.com/memoize-one"},"options":{"compress":true},"status":301}}

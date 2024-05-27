@@ -1,0 +1,2 @@
+
+a317cb9fcc1db48556d5c698c4eac49ddb6136d6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unimport","integrity":null,"time":1716391072417,"size":"262","metadata":{"time":1716391072417,"url":"http://registry.npm.taobao.org/unimport","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:50 GMT","location":"https://registry.npmmirror.com/unimport"},"options":{"compress":true},"status":301}}

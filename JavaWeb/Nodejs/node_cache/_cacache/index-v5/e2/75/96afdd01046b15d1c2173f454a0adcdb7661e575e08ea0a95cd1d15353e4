@@ -1,0 +1,2 @@
+
+871aa674b4af931ec6eb54cfd067b98057578058	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-deep-equal","integrity":null,"time":1716391081341,"size":"262","metadata":{"time":1716391081341,"url":"http://registry.npm.taobao.org/fast-deep-equal","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:59 GMT","location":"https://registry.npmmirror.com/fast-deep-equal"},"options":{"compress":true},"status":301}}

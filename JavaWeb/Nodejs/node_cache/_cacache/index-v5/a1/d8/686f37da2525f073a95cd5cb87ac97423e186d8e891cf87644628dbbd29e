@@ -1,0 +1,2 @@
+
+e770acd41fa68d890b7685dc5daf631d275abc48	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ufo","integrity":null,"time":1716391074002,"size":"262","metadata":{"time":1716391074002,"url":"http://registry.npm.taobao.org/ufo","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:52 GMT","location":"https://registry.npmmirror.com/ufo"},"options":{"compress":true},"status":301}}

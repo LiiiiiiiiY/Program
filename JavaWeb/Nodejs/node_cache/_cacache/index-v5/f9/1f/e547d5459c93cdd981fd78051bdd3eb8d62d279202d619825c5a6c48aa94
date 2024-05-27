@@ -1,0 +1,2 @@
+
+b18a34a38f6e6abdfd5d170339ed2e279fa3683a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2fwasm-parser","integrity":null,"time":1716391080004,"size":"262","metadata":{"time":1716391080004,"url":"http://registry.npm.taobao.org/@webassemblyjs%2fwasm-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2fwasm-parser"},"options":{"compress":true},"status":301}}

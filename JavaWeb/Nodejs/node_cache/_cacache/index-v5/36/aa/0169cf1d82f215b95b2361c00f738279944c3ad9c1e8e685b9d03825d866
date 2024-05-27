@@ -1,0 +1,2 @@
+
+d90146add9a1ee1b2faf9130a51f938caf86e8ef	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/to-regex-range","integrity":null,"time":1716391074277,"size":"262","metadata":{"time":1716391074277,"url":"http://registry.npm.taobao.org/to-regex-range","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:52 GMT","location":"https://registry.npmmirror.com/to-regex-range"},"options":{"compress":true},"status":301}}

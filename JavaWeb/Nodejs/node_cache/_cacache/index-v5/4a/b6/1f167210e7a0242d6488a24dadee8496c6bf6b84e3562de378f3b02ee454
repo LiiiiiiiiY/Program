@@ -1,0 +1,2 @@
+
+fce2c7caaf0efe26b9a772bf362b194f546a1922	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2fresolve-uri","integrity":null,"time":1716391081593,"size":"262","metadata":{"time":1716391081593,"url":"http://registry.npm.taobao.org/@jridgewell%2fresolve-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:59 GMT","location":"https://registry.npmmirror.com/@jridgewell%2fresolve-uri"},"options":{"compress":true},"status":301}}

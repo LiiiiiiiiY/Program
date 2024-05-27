@@ -1,0 +1,2 @@
+
+71066fa990d515e855637d1a3fac662c4f10d92d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@nodelib%2ffs.walk","integrity":null,"time":1716391073115,"size":"262","metadata":{"time":1716391073115,"url":"http://registry.npm.taobao.org/@nodelib%2ffs.walk","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:51 GMT","location":"https://registry.npmmirror.com/@nodelib%2ffs.walk"},"options":{"compress":true},"status":301}}

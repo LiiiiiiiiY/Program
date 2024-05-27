@@ -1,0 +1,2 @@
+
+873558f1dd32e42f1638bed15b09aa066f260755	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-number","integrity":null,"time":1716391074421,"size":"262","metadata":{"time":1716391074421,"url":"http://registry.npm.taobao.org/is-number","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:52 GMT","location":"https://registry.npmmirror.com/is-number"},"options":{"compress":true},"status":301}}

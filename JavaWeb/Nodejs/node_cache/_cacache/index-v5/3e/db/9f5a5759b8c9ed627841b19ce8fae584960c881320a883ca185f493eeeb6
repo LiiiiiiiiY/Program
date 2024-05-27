@@ -1,0 +1,2 @@
+
+b820f5cb3de5ec22c306724a67d91080ffc93045	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/punycode","integrity":null,"time":1716391081484,"size":"262","metadata":{"time":1716391081484,"url":"http://registry.npm.taobao.org/punycode","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:59 GMT","location":"https://registry.npmmirror.com/punycode"},"options":{"compress":true},"status":301}}

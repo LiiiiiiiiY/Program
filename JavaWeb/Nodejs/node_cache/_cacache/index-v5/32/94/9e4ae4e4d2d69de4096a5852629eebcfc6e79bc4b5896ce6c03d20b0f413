@@ -1,0 +1,2 @@
+
+c2f1b64960ea162bc4033a836eda6b37f80b6991	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unplugin","integrity":null,"time":1716391072432,"size":"262","metadata":{"time":1716391072432,"url":"http://registry.npm.taobao.org/unplugin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:50 GMT","location":"https://registry.npmmirror.com/unplugin"},"options":{"compress":true},"status":301}}

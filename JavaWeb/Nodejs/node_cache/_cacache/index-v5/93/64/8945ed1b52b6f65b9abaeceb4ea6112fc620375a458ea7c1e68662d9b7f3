@@ -1,0 +1,2 @@
+
+6f960ac2b5e2166e21455302c23d8691b8a8be8e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/node-releases","integrity":null,"time":1716391080541,"size":"262","metadata":{"time":1716391080541,"url":"http://registry.npm.taobao.org/node-releases","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/node-releases"},"options":{"compress":true},"status":301}}

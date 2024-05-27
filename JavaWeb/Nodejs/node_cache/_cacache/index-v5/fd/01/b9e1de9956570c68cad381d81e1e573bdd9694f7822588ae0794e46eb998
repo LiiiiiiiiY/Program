@@ -1,0 +1,2 @@
+
+707ee878accf6eaf0b536daf0cc4c3b61c50cbdd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/element-plus","integrity":null,"time":1716391680631,"size":"262","metadata":{"time":1716391680631,"url":"http://registry.npm.taobao.org/element-plus","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:27:58 GMT","location":"https://registry.npmmirror.com/element-plus"},"options":{"compress":true},"status":301}}

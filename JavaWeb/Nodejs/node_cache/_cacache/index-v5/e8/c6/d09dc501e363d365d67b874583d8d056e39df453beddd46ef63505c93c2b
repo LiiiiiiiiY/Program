@@ -1,0 +1,2 @@
+
+05b3a6d0787b33b1e79a688219ab550b72df4a2d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/estraverse","integrity":null,"time":1716391080582,"size":"262","metadata":{"time":1716391080582,"url":"http://registry.npm.taobao.org/estraverse","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/estraverse"},"options":{"compress":true},"status":301}}

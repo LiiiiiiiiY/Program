@@ -1,0 +1,2 @@
+
+e727487846a3b01c457e8e2c096ca66f2fdf9e5b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@nuxt%2fkit","integrity":null,"time":1716391071743,"size":"262","metadata":{"time":1716391071743,"url":"http://registry.npm.taobao.org/@nuxt%2fkit","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:49 GMT","location":"https://registry.npmmirror.com/@nuxt%2fkit"},"options":{"compress":true},"status":301}}

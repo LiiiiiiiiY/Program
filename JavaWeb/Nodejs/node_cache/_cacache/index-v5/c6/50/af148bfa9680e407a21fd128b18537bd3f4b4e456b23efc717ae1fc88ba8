@@ -1,0 +1,2 @@
+
+facdbbdf38d4094d54b986e244c819d13e807fc2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/events","integrity":null,"time":1716391080004,"size":"262","metadata":{"time":1716391080004,"url":"http://registry.npm.taobao.org/events","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/events"},"options":{"compress":true},"status":301}}

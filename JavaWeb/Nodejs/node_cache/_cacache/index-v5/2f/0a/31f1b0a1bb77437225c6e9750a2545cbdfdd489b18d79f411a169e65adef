@@ -1,0 +1,2 @@
+
+449511f034bbf168488a333580c8ab5387f31e65	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/terser-webpack-plugin","integrity":null,"time":1716391080186,"size":"262","metadata":{"time":1716391080186,"url":"http://registry.npm.taobao.org/terser-webpack-plugin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/terser-webpack-plugin"},"options":{"compress":true},"status":301}}

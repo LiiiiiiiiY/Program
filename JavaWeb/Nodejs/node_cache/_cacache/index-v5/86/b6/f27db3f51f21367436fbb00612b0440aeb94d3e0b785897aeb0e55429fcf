@@ -1,0 +1,2 @@
+
+cb60e7ff00ef0db73d85a9259f73da5b9b0229b1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pathe","integrity":null,"time":1716391073160,"size":"262","metadata":{"time":1716391073160,"url":"http://registry.npm.taobao.org/pathe","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:51 GMT","location":"https://registry.npmmirror.com/pathe"},"options":{"compress":true},"status":301}}

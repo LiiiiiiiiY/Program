@@ -1,0 +1,2 @@
+
+7b896199401cc6dc9d3ba9d91acee0038931bd79	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/confbox","integrity":null,"time":1716391074002,"size":"262","metadata":{"time":1716391074002,"url":"http://registry.npm.taobao.org/confbox","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:52 GMT","location":"https://registry.npmmirror.com/confbox"},"options":{"compress":true},"status":301}}

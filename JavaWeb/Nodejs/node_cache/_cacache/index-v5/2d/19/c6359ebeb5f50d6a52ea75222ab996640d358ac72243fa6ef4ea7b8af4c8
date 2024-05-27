@@ -1,0 +1,2 @@
+
+4f91940a10ec2d2a0331244923010aa6edf03dbc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-binary-path","integrity":null,"time":1716391074695,"size":"262","metadata":{"time":1716391074695,"url":"http://registry.npm.taobao.org/is-binary-path","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:52 GMT","location":"https://registry.npmmirror.com/is-binary-path"},"options":{"compress":true},"status":301}}

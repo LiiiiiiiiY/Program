@@ -1,0 +1,2 @@
+
+a6359f894176e68a0f8e06d26c2910c49e871757	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unplugin-auto-import","integrity":null,"time":1716391072065,"size":"262","metadata":{"time":1716391072065,"url":"http://registry.npm.taobao.org/unplugin-auto-import","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:50 GMT","location":"https://registry.npmmirror.com/unplugin-auto-import"},"options":{"compress":true},"status":301}}

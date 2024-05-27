@@ -1,0 +1,2 @@
+
+4aaeedfa9116d6d5aabc196e546af075f1da70bb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/chrome-trace-event","integrity":null,"time":1716391080003,"size":"262","metadata":{"time":1716391080002,"url":"http://registry.npm.taobao.org/chrome-trace-event","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/chrome-trace-event"},"options":{"compress":true},"status":301}}

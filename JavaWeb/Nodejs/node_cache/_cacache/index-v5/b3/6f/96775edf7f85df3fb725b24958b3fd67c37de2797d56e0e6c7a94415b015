@@ -1,0 +1,2 @@
+
+cefac31f04e764e07ccd2b5abf7ac2be3280146c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/merge-stream","integrity":null,"time":1716391081589,"size":"262","metadata":{"time":1716391081589,"url":"http://registry.npm.taobao.org/merge-stream","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:59 GMT","location":"https://registry.npmmirror.com/merge-stream"},"options":{"compress":true},"status":301}}

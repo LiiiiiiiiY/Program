@@ -1,0 +1,2 @@
+
+32377a42d7f91ae3e16074c40800f236226b893f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/browserslist","integrity":null,"time":1716391080013,"size":"262","metadata":{"time":1716391080013,"url":"http://registry.npm.taobao.org/browserslist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/browserslist"},"options":{"compress":true},"status":301}}

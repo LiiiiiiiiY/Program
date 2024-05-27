@@ -1,0 +1,2 @@
+
+93ec0d8380db4297a2921be874592cc4c33863ce	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-scope","integrity":null,"time":1716391079990,"size":"262","metadata":{"time":1716391079989,"url":"http://registry.npm.taobao.org/eslint-scope","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/eslint-scope"},"options":{"compress":true},"status":301}}

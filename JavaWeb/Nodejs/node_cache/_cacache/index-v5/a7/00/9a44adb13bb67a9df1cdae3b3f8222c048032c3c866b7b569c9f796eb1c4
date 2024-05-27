@@ -1,0 +1,2 @@
+
+bc5e0554c32a174abc01ce54a1d32633b4d324dd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2fwasm-edit","integrity":null,"time":1716391080002,"size":"262","metadata":{"time":1716391080002,"url":"http://registry.npm.taobao.org/@webassemblyjs%2fwasm-edit","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2fwasm-edit"},"options":{"compress":true},"status":301}}

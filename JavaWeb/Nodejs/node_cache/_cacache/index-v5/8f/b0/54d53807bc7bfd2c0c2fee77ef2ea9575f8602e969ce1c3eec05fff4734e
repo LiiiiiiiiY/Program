@@ -1,0 +1,2 @@
+
+bc8880356bc66373c8741878ef5be0d3c68dcf7c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2fset-array","integrity":null,"time":1716391082108,"size":"262","metadata":{"time":1716391082108,"url":"http://registry.npm.taobao.org/@jridgewell%2fset-array","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:18:00 GMT","location":"https://registry.npmmirror.com/@jridgewell%2fset-array"},"options":{"compress":true},"status":301}}

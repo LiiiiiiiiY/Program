@@ -1,0 +1,2 @@
+
+214f0abbfcc39cb22d9d2ae5065439866923676b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/local-pkg","integrity":null,"time":1716391072412,"size":"262","metadata":{"time":1716391072412,"url":"http://registry.npm.taobao.org/local-pkg","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:50 GMT","location":"https://registry.npmmirror.com/local-pkg"},"options":{"compress":true},"status":301}}

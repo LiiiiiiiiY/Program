@@ -1,0 +1,2 @@
+
+2e6f02c0f9442a4b30df2af919ce79e8f87cfa50	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/minimatch","integrity":null,"time":1716391072413,"size":"262","metadata":{"time":1716391072413,"url":"http://registry.npm.taobao.org/minimatch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:50 GMT","location":"https://registry.npmmirror.com/minimatch"},"options":{"compress":true},"status":301}}

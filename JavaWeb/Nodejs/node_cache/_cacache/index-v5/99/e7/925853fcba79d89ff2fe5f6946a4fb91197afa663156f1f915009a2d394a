@@ -1,0 +1,2 @@
+
+36481785516d47ef4e97251f39427631b73aa375	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fweb-bluetooth","integrity":null,"time":1716391681532,"size":"262","metadata":{"time":1716391681532,"url":"http://registry.npm.taobao.org/@types%2fweb-bluetooth","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:27:59 GMT","location":"https://registry.npmmirror.com/@types%2fweb-bluetooth"},"options":{"compress":true},"status":301}}

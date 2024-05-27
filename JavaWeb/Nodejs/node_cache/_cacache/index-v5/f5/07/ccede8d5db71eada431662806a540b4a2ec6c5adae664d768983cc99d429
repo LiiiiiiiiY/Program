@@ -1,0 +1,2 @@
+
+c7d05ad41632560329b6150f03855b2038752206	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/vue-demi","integrity":null,"time":1716391681533,"size":"262","metadata":{"time":1716391681533,"url":"http://registry.npm.taobao.org/vue-demi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:27:59 GMT","location":"https://registry.npmmirror.com/vue-demi"},"options":{"compress":true},"status":301}}

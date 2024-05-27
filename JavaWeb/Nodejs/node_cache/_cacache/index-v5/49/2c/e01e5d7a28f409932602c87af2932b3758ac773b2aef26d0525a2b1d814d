@@ -1,0 +1,2 @@
+
+0cb50d70816a58ee3f2af4803e5c9e63f395afa2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2fsource-map","integrity":null,"time":1716391081599,"size":"262","metadata":{"time":1716391081599,"url":"http://registry.npm.taobao.org/@jridgewell%2fsource-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:59 GMT","location":"https://registry.npmmirror.com/@jridgewell%2fsource-map"},"options":{"compress":true},"status":301}}

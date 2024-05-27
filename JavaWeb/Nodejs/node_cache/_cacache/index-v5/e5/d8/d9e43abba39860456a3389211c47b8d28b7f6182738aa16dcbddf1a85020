@@ -1,0 +1,2 @@
+
+e26df2b7033b1b0e4599b30eac4174d070db5459	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-worker","integrity":null,"time":1716391080607,"size":"262","metadata":{"time":1716391080607,"url":"http://registry.npm.taobao.org/jest-worker","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:58 GMT","location":"https://registry.npmmirror.com/jest-worker"},"options":{"compress":true},"status":301}}

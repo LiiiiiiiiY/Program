@@ -1,0 +1,2 @@
+
+ee9dcbfd85afd2d2481b4b92694599f599ce1158	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rollup%2fpluginutils","integrity":null,"time":1716391072426,"size":"262","metadata":{"time":1716391072426,"url":"http://registry.npm.taobao.org/@rollup%2fpluginutils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:50 GMT","location":"https://registry.npmmirror.com/@rollup%2fpluginutils"},"options":{"compress":true},"status":301}}

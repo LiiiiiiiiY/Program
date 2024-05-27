@@ -1,0 +1,2 @@
+
+f790d655bcd5a923e757e9b95ec6e6485522c6e2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tapable","integrity":null,"time":1716391079566,"size":"262","metadata":{"time":1716391079566,"url":"http://registry.npm.taobao.org/tapable","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 22 May 2024 15:17:57 GMT","location":"https://registry.npmmirror.com/tapable"},"options":{"compress":true},"status":301}}
