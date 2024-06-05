@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(){
     int arr[4] = {85, 12, 163, 134};
     int newArr[sizeof(arr)/sizeof(arr[0])];
